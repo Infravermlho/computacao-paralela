@@ -37,3 +37,34 @@ Resolver os [exercicios](http://www.inf.pucrs.br/%7Epinho/PRGSWB/Exercicios/Intr
 >> Passo 1: Na aba superior, há o botão run;
 
 ### Resultados esperados de cada programa-
+
+1º Programa: Espera-se que o programa retorne o índice da linha que contém o menor número;
+
+2º Programa: Espera-se que o programa consiga calcular a média das 3 notas e que o resultado
+esteja dentro do parâmetros previamente vistos na tabela do enunciado;
+
+3º Programa: Espera-se que a sáida do programa imprima cada linha, de forma que a cada iteração,
+o programa corte as "bordas" de forma que no final de sua execução, apenas o elemento central reste;
+
+4º Programa:
+
+5º Programa:
+
+6º Programa:
+
+7º Programa:
+
+8º Programa:
+
+9º Programa:
+
+10º Programa:
+
+11º Programa:
+
+12º Programa:
+
+13º Programa:
+
+14º Programa:
+
