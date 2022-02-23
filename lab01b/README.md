@@ -46,19 +46,21 @@ esteja dentro do parâmetros previamente vistos na tabela do enunciado;
 3º Programa: Espera-se que a sáida do programa imprima cada linha, de forma que a cada iteração,
 o programa corte as "bordas" de forma que no final de sua execução, apenas o elemento central reste;
 
-4º Programa:
+4º Programa: Espera-se que o programa imprima os nomes lidos em ordem alfabética;
 
-5º Programa:
+5º Programa: Espera-se que o programa leia a matriz, via teclado, e multiplique uma linha e coluna
+específica por um número inteiro;
 
-6º Programa:
+6º Programa: Espera-se que o programa de o display da transposta da matriz;
 
-7º Programa:
+7º Programa: Espera-se que o programa dê o display do nome de 3 indivíduos, e junto à ele, suas informações como peso, altura e idade;
 
-8º Programa:
+8º Programa: Espera-se que o programa à partir do uso de uma função, crie a transposta de uma matriz;
 
-9º Programa:
+9º Programa: Espera-se que o programa consiga substituir todo os elementos negativos pelo seu módulo;
 
-10º Programa:
+10º Programa: Espera-se que o programa à partir do uso de uma função, consiga efetuar a multiplicação
+de uma linha e coluna específicas por um número inteiro;
 
 11º Programa:
 
