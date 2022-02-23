@@ -62,11 +62,15 @@ específica por um número inteiro;
 10º Programa: Espera-se que o programa à partir do uso de uma função, consiga efetuar a multiplicação
 de uma linha e coluna específicas por um número inteiro;
 
-11º Programa:
+11º Programa: Espera-se que o programa à partir do uso de uma função, consiga efetuar a soma e multiplicação das linhas
+L1 e L2 e o seu resultado deve ser exibido na linha L2;
 
-12º Programa:
+12º Programa: Espera-se que o programa à partir do uso do índice como mecanismo de busca, retorne a posição de
+um caractér de uma string;
 
-13º Programa:
+13º Programa: Espera-se que o programa à partir do uso do índice como mecanismo de busca, remova o caractér 
+correspondente à posição informada pelo usuário;
 
-14º Programa:
+14º Programa: Espera-se que o programa à partir do uso do índice como mecanismo de busca, adicione um caractér
+correspondente à posição informada pelo usuário;
 
