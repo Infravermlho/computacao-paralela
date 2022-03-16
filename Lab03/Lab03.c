@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 typedef struct PESSOA
 {
@@ -13,7 +14,7 @@ char cmpnome (const void * a, const void * b)
 { 
     struct PESSOA *ia = (struct PESSOA *)a;
     struct PESSOA *ib = (struct PESSOA *)b;
-    return (ia->nome, ib->nome);
+    return strcmp(ia->nome, ib->nome);
 }
 
 int cmpidade (const void * a, const void * b) 
@@ -70,12 +71,10 @@ int main()
     size_t structs_len = sizeof(Povo) / sizeof(struct PESSOA);
 
 
-    printf("Comparação por idade:");
+    printf("Ordenação por nome(Ordem crescente):");
     printf("\n");
-    qsort(Povo, structs_len, sizeof(struct PESSOA), cmpidade);
+    qsort(Povo, structs_len, sizeof(struct PESSOA), cmpnome);
     imprimeVetor(Povo, structs_len);
-
-  
 
   
     return 0;
