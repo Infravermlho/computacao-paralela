@@ -3,28 +3,24 @@ Resolver o exericio proposto no moodle e adiciona-lo ao GitHub
 ### Como compilar os exercicios-
 
 1ª forma:
-- Utilizar o terminal do linux;
->> Passo 1: O usuário deve adquirir a última versão do gcc;
-
-2ª forma:
 - Utilizar o Replit;
 >> Passo 1: O Replit por ser um compilador online não precisa baixar quaisquer extensões extras para compilar;
 
->> Passo 2: Um arquivo txt foi enviado junto ao código para que seja feita a leitura de seus dados;
-
-
+2ª forma:
+- Utilizar o terminal do linux;
+>> Passo 1: O usuário deve adquirir a última versão do gcc;
 
 ### Como executar os programas-
 
 1ª forma:
-- Utilizar o terminal do linux;
->> Passo 1: Digitar no console o comando gcc "nome do arquivo de leitura" -0 "nome do arquivo de saída";
-
->> Passo 1.1: Digitar no console o comando /"nome do arquivo";
-
-2ª forma:
 - Utilizar o Replit;
 >> Passo 1: Pressionar o botão do play na aba superior;
+
+2ª forma:
+- Utilizar o terminal do linux;
+>> Passo 1: Digitar no console o comando gcc "nome do arquivo de leitura.c" -0 "nome do arquivo de saída";
+
+>> Passo 1.1: Em seguida, digitar no console o comando /"nome do arquivo de saída";
 
 
 ### Resultados esperados de cada programa-
