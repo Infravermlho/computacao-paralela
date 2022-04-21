@@ -25,5 +25,5 @@ Resolver o exericio proposto no moodle e adiciona-lo ao GitHub
 
 ### Resultados esperados de cada programa-
 
-1º Programa: Espera-se que o programa consiga, com êxito, utilizar os recursos fork() e shmget() para realizar algumas operações aritméticas, afim de obter o resultado previsto no enunciado.
+1º Programa: Espera-se que o programa consiga, com êxito, utilizar os recursos fork() e shmget() para criar os processos pai e filho, com o intuito de realizar algumas operações aritméticas, afim de obter o resultado previsto no enunciado.
 
