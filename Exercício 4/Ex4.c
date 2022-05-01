@@ -22,7 +22,7 @@ float CalcTaylor()
       printf("Iteração %d\n", count);
       printf("Valor de N: %d\n", n);
       printf("Valor de D: %d\n", d);
-      printf("Div: %.2f\n", div);
+      printf("Valor da Divisão: %.2f\n", div);
       printf("Soma: %.2f\n", soma);
       printf("\n");
       
