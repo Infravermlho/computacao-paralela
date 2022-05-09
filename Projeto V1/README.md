@@ -21,7 +21,7 @@ Resolver o exercicio proposto no moodle e adiciona-lo ao GitHub
 ### Cálculo SpeedUp 
 
 >> Símbolos:
-- Sp = speedup
+- sp = speedup
 - t1 = tempo de execução em um único processador
 - tp = tempo de execução paralelo
 
