@@ -14,7 +14,23 @@ Resolver o exercicio proposto no moodle e adiciona-lo ao GitHub
 >> Passo 1: Pressionar o botão do play na aba superior;
 
 
-
 ### Resultados esperados de cada programa-
 
 1º Programa: Espera-se que o programa consiga, com êxito, executar o "v1" do projeto, na qual calculamos a série de Taylor p/ ln(100) e incluindo pthreads.
+
+### Cálculo SpeedUp 
+
+>> Símbolos:
+- Sp = speedup
+- t1 = tempo de execução em um único processador
+- tp = tempo de execução paralelo
+
+>> O cálculo:
+
+sp = t1/tp
+
+sp = 0,002029/0,000131
+
+sp = 15,48855 segundos
+
+
