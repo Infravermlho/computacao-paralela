@@ -8,7 +8,7 @@
 
 1 - Adicione todos os arquivos na mesma pasta mantendo a estrutura que se encontra no REPO
 
-2 - Instalar o pacote Rayon
+2 - Instalar o pacote Rayon e Itertools
 
 3 - Rodar a script main.rs em src
 
