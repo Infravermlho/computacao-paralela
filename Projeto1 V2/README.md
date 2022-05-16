@@ -14,4 +14,4 @@
 
 # Resultados esperados
 
-O programa vai calcular a série de Taylor para ln(1000) usando Rayon para paralelização de data
+O programa vai calcular a série de Taylor para ln(10000) usando Rayon para paralelização de data
