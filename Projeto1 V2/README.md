@@ -6,11 +6,13 @@
 
 # Outra alternativa
 
-1 - Adicione todos os arquivos na mesma pasta mantendo a estrutura que se encontra no REPO
+1 - Instalar rust: https://rustup.rs/
 
-2 - Instalar o pacote Rayon e Itertools
+2 - Colocar os arquivos em uma pasta, mantendo a mesma estrutura
 
-3 - Rodar a script main.rs em src
+3 - No terminal navegar até a pasta e executar ``cargo build``
+
+4 - E depois ``cargo run``
 
 # Resultados esperados
 
