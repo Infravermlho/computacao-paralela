@@ -1,9 +1,9 @@
-Como executar o programa?
+# Como executar o programa?
 
 1 - Entrar em https://replit.com/@Infravermlho/ProjetoV2#src/main.rs
 
 2 - Clicar em run
-Outra alternativa
+# Outra alternativa
 
 1 - Instalar rust: https://rustup.rs/
 
