@@ -6,6 +6,6 @@
 
 4 - E depois ``cargo run --release`` (não colocar o release vai impactar drasticamente a performance)
 
-Resultados esperados
+### Resultados esperados
 
 O programa vai calcular a série de Taylor infinitamente em incrementos de ln(5000000000) usando Rayon para paralelização de data
